@@ -1,0 +1,6 @@
+# do not share result-files yet
+scan_results/
+
+# neglect old versions
+/PROFINET/dce_rpc_pnio.nse
+/PROFINET/pn_discovery.nse
