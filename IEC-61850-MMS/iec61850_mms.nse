@@ -42,7 +42,7 @@ description = [[
 ---
 
 categories = {"discovery", "intrusive", "version"}
-author = "DINa community"
+author = "DINA-community"
 license = "Same as Nmap--See http://nmap.org/book/man-legal.html"
 
 -- Helpers

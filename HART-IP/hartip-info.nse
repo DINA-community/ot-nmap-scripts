@@ -52,7 +52,7 @@ https://www.fieldcommgroup.org/hart-specifications.
 --<elem>HART Protocol Major Revision: 7</elem>
 --<elem>Private Label Distributor: Phoenix Contact</elem>
 
-author = "Ankush Meshram"
+author = "DINA-community"
 license = "Same as Nmap--See https://nmap.org/book/man-legal.html"
 categories = {"discovery"}
 

@@ -33,7 +33,7 @@ description = [[
 --<elem key="annotation">S7-1500                   6ES7 672-5DC01-0YA0      0 V  2  1  7</elem>
 
 categories = {"discovery"}
-author = "Markus Karch"
+author = "DINA-community"
 license = "Same as Nmap--See http://nmap.org/book/man-legal.html"
 
 local EPM_UDP_PORT = 34964

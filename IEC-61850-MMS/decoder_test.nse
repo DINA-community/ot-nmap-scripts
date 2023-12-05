@@ -7,7 +7,7 @@ local stdNse = require "stdnse"
 
 description = "testing the new decoders"
 categories = {"discovery", "intrusive", "version"}
-author = "Dennis Rösch, Max Helbig"
+author = "DINA-community"
 license = "Same as Nmap--See http://nmap.org/book/man-legal.html"
 
 
